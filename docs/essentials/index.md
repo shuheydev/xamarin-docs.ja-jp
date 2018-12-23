@@ -28,7 +28,7 @@ Android、iOS、UWP では独自のオペレーティング システムとプ�
 
 * [加速度計](accelerometer.md?context=xamarin/xamarin-forms) – 3 次元空間内のデバイスの加速度データを取得します。
 * [アプリ情報](app-information.md?context=xamarin/xamarin-forms) – アプリケーションに関する情報を見つけます。
-* [バロメーター](barometer.md?context=xamarin/xamarin-forms) – 負荷の変化のバロメーターを監視します。
+* [バロメーター](barometer.md?context=xamarin/xamarin-forms) – 気圧の変化のバロメーターを監視します。
 * [バッテリ](battery.md?context=xamarin/xamarin-forms) – バッテリ レベル、ソース、および状態を簡単に検出します。
 * [クリップボード](clipboard.md?context=xamarin/xamarin-forms) – クリップボード上のテキストをすばやく簡単に設定したり読み取ったりします。
 * [コンパス](compass.md?context=xamarin/xamarin-forms) – 変化のコンパスを監視します。
